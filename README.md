@@ -30,7 +30,6 @@ cd phone-checker
 python3 phonchecker.py
 ```
 
-
 [Site](https://studiobahram.ir)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [Github](https://github.com/Studio-Bahram)
