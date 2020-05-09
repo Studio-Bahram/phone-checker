@@ -1,5 +1,5 @@
 # Phone Checker Telegram
-> ```pip install telethon```
+```pip install telethon```
 
 ## Signing In
 Before working with Telegram’s API, you need to get your own **API ID** and **HasH**:
@@ -15,7 +15,7 @@ Before working with Telegram’s API, you need to get your own **API ID** and **
 +17246048934
 +4584823489
 ```
-### or
+or
 ```
 13797278383
 17246048934
